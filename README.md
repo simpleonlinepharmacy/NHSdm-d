@@ -1,22 +1,18 @@
 
 1. First download to your computer the following :
- A copy of the dm+d XML Transformation Tool
- A copy of the NHSBSA dm+d release
- Optional – a copy of the NHSBSA dm+d Supplementary release
+A copy of the dm+d XML Transformation Tool (uk_dmdextract XXXX)
+A copy of the NHSBSA dm+d release
+* Optional – a copy of the NHSBSA dm+d Supplementary release
 2. Select the save from the download prompt, you should now have two zip files (or
 three if you have downloaded the supplementary release as well). The endings of
 these file names will change with each release.
-Figure 1 - Example of the two files
 3. Select the uk_dmdextract_n.n.n_yyyymmdd000001.zip file and extract it (or unzip it)
 to the C:\ drive.
-Figure 2 - How to extract the tool using WinRAR
-4
 Copyright © 2015, Health and Social Care Information Centre.dm+d XML Transformation Tool - User Guide
 4. This will create the folder structure: the dmd_extract_tool in the C:\ drive.
-Figure 3 - The unzipped folder in C:\
 5. The finished path must be C:\dmd_extract_tool\xml-csv.bat
 6. The tool is now installed.
-5
+
 Copyright © 2015, Health and Social Care Information Centre.dm+d XML Transformation Tool - User Guide
 Using the tool
 Before using the tool, you need to have whichever version of the dm+d files you wish to
